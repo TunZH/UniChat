@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0pLxsNoQVkk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TT\\Downloads\\chatterbox\\WinFormsApp1\\UniChat.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TT\\.nuget\\packages\\microsoft.web.webview2\\1.0.4314.35\\microsoft.web.webview2.1.0.4314.35.nupkg.sha512"
+  ],
+  "logs": []
+}
