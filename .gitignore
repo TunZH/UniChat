@@ -1,0 +1,12 @@
+.vs/
+.vscode/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.cache
+*.tmp
+*.log
+TestResults/
