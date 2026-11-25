@@ -1,5 +1,8 @@
+
 .vs/
 .vscode/
+**/bin/
+**/obj/
 [Bb]in/
 [Oo]bj/
 [Dd]ebug/
